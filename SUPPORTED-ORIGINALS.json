@@ -1,0 +1,34 @@
+[
+  {
+    "path": "DodgeballAcademia.exe",
+    "sha256": "8ab00332a9cfb49bfa5c622216b99aa64e188868623635301c4f3b00f4f6adc5"
+  },
+  {
+    "path": "GameAssembly.dll",
+    "sha256": "74a4d40eef50aad65a763e4cdcf78d64d5690227e094fba4ea80818df34a2a2a"
+  },
+  {
+    "path": "DodgeballAcademia_Data/il2cpp_data/Metadata/global-metadata.dat",
+    "sha256": "d1cab39e2e83045d7ec23bd1dbf3fb8cfac475b27aaa6923daa6ecf2e9e5da86"
+  },
+  {
+    "path": "DodgeballAcademia_Data/resources.assets",
+    "sha256": "fd6e3a33ed348b784b23e7b6b1e9a20c0a083eb31249334018d381f7d76da55a"
+  },
+  {
+    "path": "DodgeballAcademia_Data/StreamingAssets/AssetBundles/fonts_bekind",
+    "sha256": "b53b7a417776121eabc664d04c0fb6b5f586dbac248e5be3ea1b92cec0281a36"
+  },
+  {
+    "path": "DodgeballAcademia_Data/StreamingAssets/AssetBundles/fonts_questrian",
+    "sha256": "72e70c7a5a8e5dd448f6fe987f7ed359b6e451a4f44fe81209dfdf958acfd947"
+  },
+  {
+    "path": "DodgeballAcademia_Data/StreamingAssets/AssetBundles/fontsmeta_bekind",
+    "sha256": "a1c52060f97c404aff7351a66f3bed4d15f22e841b4ee772c82c3017a7e5e1bd"
+  },
+  {
+    "path": "DodgeballAcademia_Data/StreamingAssets/AssetBundles/fontsmeta_questrian",
+    "sha256": "0aa02a9493a15b1591debdf9175e03d9a5fc7668cb8ec8beae9a098613c10748"
+  }
+]

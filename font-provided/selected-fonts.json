@@ -1,0 +1,21 @@
+{
+  "status": "User-selected original fonts; no new TTF generation",
+  "fonts": [
+    {
+      "role": "Regular",
+      "workspace_file": "ukij-qolyazma-tuz.ttf",
+      "bytes": 102696,
+      "sha256": "55c6802f9006e4da96d6ecdb520a23c47a482ec5318f9c23557d53b98e2e505f",
+      "ttf_modified": false,
+      "license_file": "licenses/UKIJ-LGPL.txt"
+    },
+    {
+      "role": "Bold",
+      "workspace_file": "ario-dots-1.ttf",
+      "bytes": 67668,
+      "sha256": "1d24c1f8515c0c9e3f8ff77684bd9154ad1686d8161f1f7cc95926fd1dfa9d44",
+      "ttf_modified": false,
+      "license_file": "licenses/Ario-OFL.txt"
+    }
+  ]
+}

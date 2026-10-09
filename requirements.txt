@@ -1,0 +1,4 @@
+UnityPy
+fonttools
+Pillow
+arabic-reshaper
